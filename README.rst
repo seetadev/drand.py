@@ -1,5 +1,7 @@
-drand.py
+## drand.py 
+
 ========
+Update in Progress: https://github.com/seetadev/py-libp2p/issues/3
 
 .. image:: https://img.shields.io/pypi/v/drand.svg
          :target: https://pypi.python.org/pypi/drand
